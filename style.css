@@ -1,0 +1,118 @@
+
+.top-page{
+    background-color: lightgray;
+    height: 65px;
+    width: 100%;
+    padding-top: 5px;
+}
+
+.headlines{
+	float: right;
+	padding-right: 100px;
+	display:flex;
+	font-size: 20px;
+	color: black;
+	position: fixed;
+}
+
+.name{
+	padding-right: 760px;
+    position: relative;
+}
+
+.nav-link{
+	padding-left: 100px;
+	color: purple;
+}
+
+.search-section{
+	padding-top: 60px;
+	padding-left: 160px;
+}
+
+input[type=text] {
+    width: 40%;
+    height: 31px;
+    padding: 4px 20px;
+    font-size: 20px;
+    box-sizing: border-box;
+    border: 2px solid gray;
+    border-radius: 4px;
+    margin-right: 10px;
+}
+
+.glass{
+  width: 40px;
+  vertical-align: middle;
+  border-radius: 4px;
+  margin-left: -5px;
+  margin-top: -9px;
+}
+
+.pages {
+    padding-top: 3px;
+    padding-right: 10px;
+    font-size: 20px;
+    box-sizing: content-box;
+    border: 2px solid gray;
+    border-radius: 4px;
+    height: 30px;
+    width: 20%;
+    margin-top: 20px;
+    margin-left: 160px;
+}
+
+a.pages-button{
+	padding-left: 20px;
+}
+
+.container{
+	padding-top: 30px;
+	padding-left: 6px;
+}
+
+.result-row, .result-hood{
+	background-color: transparent;
+    padding: 0px 155px 0px;
+    position: relative;
+    color: gray;
+}
+
+.listing-title {
+    font-weight: bold;
+    font-size: 18px;
+    margin-left: 7px;
+    margin-right: 7px;
+    color: blue;
+}
+
+.result-row2, .result-hood2{
+	background-color: transparent;
+    padding: 0px 155px 0px;
+    position: relative;
+    color: gray;
+}
+
+.listing-title2{
+	font-weight: bold;
+    font-size: 18px;
+    margin-left: 7px;
+    margin-right: -150px;
+    color: blue;
+}
+
+.result-row3, .result-hood3{
+	background-color: transparent;
+    padding: 0px 155px 0px;
+    position: relative;
+    color: gray;
+}
+
+.listing-title3{
+	font-weight: bold;
+    font-size: 18px;
+    margin-left: 7px;
+    margin-right: -140px;
+    color: blue;
+}
+}
